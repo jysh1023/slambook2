@@ -1,5 +1,5 @@
 ## Slambook2
-![titlepage](./figures/title.png)
+![titlepage](figuresitle.png)
 
 Welcome to Slambook 2nd Edition! This is the codebase of our book. Here are some relavant links if you need them: 
 - [Our book at jd.com](https://item.jd.com/12666058.html)
